@@ -1,1 +1,0 @@
-# Azure-Sample-ARM-Templates
